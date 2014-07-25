@@ -1,5 +1,6 @@
 
-# makeCacheMatrix creates a special "matrix" object that can cache its inverse:
+# makeCacheMatrix creates a special "matrix" object that can cache its inverse
+# and offers the following list of functions:
 
 # 1. set the value of the matrix
 # 2. get the value of the matrix
